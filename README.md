@@ -1,6 +1,6 @@
 # PHP Framework
 
-## $ intro
+## $ Intro
 This is a small php framework to creat a quick web page using php and Boostrap Framework.
 
 ## $ Functionality
@@ -20,10 +20,10 @@ $pageName->body("END");
 ```
 
 
-## $ languages used
+## $ Technology used
 The framework was built using the following technologies:
 
 ![PHP, Sublime](https://skillicons.dev/icons?i=php,sublime)
 
-## $ license
+## $ License
 This project is for personal use and learning purposes. Feel free to explore and modify it as needed. ❤️
