@@ -14,9 +14,9 @@ This is a small php framework to creat a quick web page using php and Boostrap F
 
 **Body Area**
 ```
-$index->body("BEGIN");
+$pageName->body("BEGIN");
     //content
-$index->body("END");
+$pageName->body("END");
 ```
 
 
